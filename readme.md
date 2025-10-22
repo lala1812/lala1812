@@ -1,1 +1,1 @@
-echo tengo 10 años
+tengo 22 años
