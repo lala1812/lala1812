@@ -1,4 +1,4 @@
-## Hi there 👋
+experto en redes de computadoras y experto en ensambladoy y ademas de diseño ux de videojuegos
 
 <!--
 **lala1812/lala1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
